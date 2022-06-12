@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/study-movie_app_2021/static/css/main.dbd46b98.chunk.css",
-    "main.js": "/study-movie_app_2021/static/js/main.a1926555.chunk.js",
-    "main.js.map": "/study-movie_app_2021/static/js/main.a1926555.chunk.js.map",
-    "runtime-main.js": "/study-movie_app_2021/static/js/runtime-main.7b9483a5.js",
-    "runtime-main.js.map": "/study-movie_app_2021/static/js/runtime-main.7b9483a5.js.map",
-    "static/js/2.95f824ca.chunk.js": "/study-movie_app_2021/static/js/2.95f824ca.chunk.js",
-    "static/js/2.95f824ca.chunk.js.map": "/study-movie_app_2021/static/js/2.95f824ca.chunk.js.map",
-    "static/js/3.2ceb8c8c.chunk.js": "/study-movie_app_2021/static/js/3.2ceb8c8c.chunk.js",
-    "static/js/3.2ceb8c8c.chunk.js.map": "/study-movie_app_2021/static/js/3.2ceb8c8c.chunk.js.map",
-    "index.html": "/study-movie_app_2021/index.html",
-    "static/css/main.dbd46b98.chunk.css.map": "/study-movie_app_2021/static/css/main.dbd46b98.chunk.css.map",
-    "static/js/2.95f824ca.chunk.js.LICENSE.txt": "/study-movie_app_2021/static/js/2.95f824ca.chunk.js.LICENSE.txt"
+    "main.css": "/clone___study-movie_app_2021/static/css/main.df5032bb.chunk.css",
+    "main.js": "/clone___study-movie_app_2021/static/js/main.cd1d9eaf.chunk.js",
+    "main.js.map": "/clone___study-movie_app_2021/static/js/main.cd1d9eaf.chunk.js.map",
+    "runtime-main.js": "/clone___study-movie_app_2021/static/js/runtime-main.86b1d315.js",
+    "runtime-main.js.map": "/clone___study-movie_app_2021/static/js/runtime-main.86b1d315.js.map",
+    "static/js/2.95f824ca.chunk.js": "/clone___study-movie_app_2021/static/js/2.95f824ca.chunk.js",
+    "static/js/2.95f824ca.chunk.js.map": "/clone___study-movie_app_2021/static/js/2.95f824ca.chunk.js.map",
+    "static/js/3.2ceb8c8c.chunk.js": "/clone___study-movie_app_2021/static/js/3.2ceb8c8c.chunk.js",
+    "static/js/3.2ceb8c8c.chunk.js.map": "/clone___study-movie_app_2021/static/js/3.2ceb8c8c.chunk.js.map",
+    "index.html": "/clone___study-movie_app_2021/index.html",
+    "static/css/main.df5032bb.chunk.css.map": "/clone___study-movie_app_2021/static/css/main.df5032bb.chunk.css.map",
+    "static/js/2.95f824ca.chunk.js.LICENSE.txt": "/clone___study-movie_app_2021/static/js/2.95f824ca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7b9483a5.js",
+    "static/js/runtime-main.86b1d315.js",
     "static/js/2.95f824ca.chunk.js",
-    "static/css/main.dbd46b98.chunk.css",
-    "static/js/main.a1926555.chunk.js"
+    "static/css/main.df5032bb.chunk.css",
+    "static/js/main.cd1d9eaf.chunk.js"
   ]
 }
